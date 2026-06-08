@@ -15,4 +15,4 @@ Calculadora de taxa de entrega baseada na distância e condição climática.
 
 ## Autor
 Guilherme Anselmini  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil)
+[LinkedIn](https://www.linkedin.com/in/guilherme-anselmini-8430ab30a/)
