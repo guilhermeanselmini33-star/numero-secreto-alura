@@ -1,17 +1,18 @@
-# Estudos Python 🐍
+# Jogo do Número Secreto 🎮
 
-Repositório com exercícios práticos de lógica de programação e Python.
+Repositório baseado no projeto do curso de lógica de programação da Alura.
 
-## Projetos
+## 🔖 Sobre
+Jogo onde o usuário tenta adivinhar um número secreto sorteado entre 1 e 100.
+Modificado por mim durante o curso de Git e GitHub.
 
-### 🎬 Desconto Cinema
-Sistema que verifica se o cliente tem direito a meia-entrada com base na idade e se é estudante.
+## 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript
 
-### 🛵 Taxa de Entrega
-Calculadora de taxa de entrega baseada na distância e condição climática.
-
-## Tecnologias
-- Python 3.14
+## ✏️ Modificações realizadas
+- Limite alterado de 10 para 100
 
 ## Autor
 Guilherme Anselmini  
